@@ -134,7 +134,7 @@ style window:
     xalign 0.5
     xfill True
     yalign 1.0
-    ysize 400
+    ysize 380
 
     background Image("gui/textbox1.png", xalign=0.5, yalign=1.0)
 
